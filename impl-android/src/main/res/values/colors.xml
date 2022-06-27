@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#424242</color>
+    <color name="danger">#dd4b39</color>
+    <color name="primary">#3498DB</color>
+    <color name="actionSheetMask">#B3000000</color>
+    <color name="actionSheetBackground">#fff</color>
+</resources>

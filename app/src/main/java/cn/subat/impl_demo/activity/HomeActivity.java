@@ -41,6 +41,7 @@ public class HomeActivity extends IMBaseActivity {
     @Override
     public void onUpdateLocal() {
         super.onUpdateLocal();
+
         redirectTo(new HomePage());
     }
 

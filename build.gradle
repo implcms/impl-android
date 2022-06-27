@@ -10,7 +10,6 @@ buildscript {
     }
     dependencies {
         classpath "com.android.tools.build:gradle:4.1.3"
-        classpath 'com.blankj:bus-gradle-plugin:2.6'
     }
 }
 
@@ -25,7 +24,6 @@ allprojects {
     }
 
 }
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }

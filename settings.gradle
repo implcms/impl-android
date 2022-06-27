@@ -1,3 +1,1 @@
-rootProject.name = "impl_demo"
-include ':app'
-include ':impl-android'
+include ':app',':impl-android'

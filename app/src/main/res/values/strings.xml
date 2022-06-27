@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">impl_demo</string>
+    <string name="top_words">Top Words</string>
+    <string name="choose_lang">Choose Lang</string>
+    <string name="ug">ئۇيغۇرچە</string>
+    <string name="zh">中文</string>
+    <string name="en">English</string>
+</resources>

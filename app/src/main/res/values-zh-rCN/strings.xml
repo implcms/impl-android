@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMPL演示应用</string>
+    <string name="top_words">热门词汇</string>
+    <string name="zh">中文</string>
+    <string name="choose_lang">请选择语言</string>
+    <string name="ug">ئۇيغۇرچە</string>
+    <string name="en">English</string>
+</resources>

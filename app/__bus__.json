@@ -1,0 +1,9 @@
+{
+  "BusUtilsClass": "com.blankj.utilcode.util.BusUtils",
+  "rightBus": {
+    "updateLocal": [
+      "{ desc: cn.subat.impl_android.activity.IMBaseActivity#onUpdateLocal() }"
+    ]
+  },
+  "wrongBus": {}
+}

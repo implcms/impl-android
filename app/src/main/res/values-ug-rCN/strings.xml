@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سىناق</string>
+    <string name="top_words">ئاۋات خەۋەرلەر</string>
+    <string name="choose_lang">تىل تاللاڭ</string>
+    <string name="zh">中文</string>
+    <string name="ug">ئۇيغۇرچە</string>
+    <string name="en">English</string>
+</resources>
